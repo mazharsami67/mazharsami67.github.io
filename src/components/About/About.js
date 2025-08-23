@@ -23,20 +23,21 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Pedro Muniz</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            Hi, I’m <strong>Mazhar Sami</strong> — a software engineering student at COMSATS University with a passion for building creative and practical digital solutions. Over time, I’ve explored a wide range of skills, from front-end development (React, JavaScript, HTML, CSS) to Java and Python programming, as well as hands-on work with data structures, object-oriented programming, and GUI applications.
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            I enjoy turning ideas into projects — whether it’s a study planner app, interactive games like tic-tac-toe, or e-commerce concepts like Ethnify, which bring together culture, technology, and design. Alongside coding, I’m deeply curious about digital marketing, UI/UX design, and problem-solving that connects technology with real-world needs.
+
+            I consider myself a logical yet creative thinker, a little introverted but always open-minded, and driven by self-improvement. I love experimenting, learning new tools, and building things that make an impact.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
+              When I’m not coding, you’ll probably find me exploring filmmaking techniques, reading about science, or imagining new projects to work on. My goal is to keep growing as a developer, collaborate with inspiring people, and eventually create products that blend innovation with cultural identity.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
