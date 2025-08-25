@@ -45,7 +45,7 @@ function Contact() {
               </div>
               <a
                 className="btn PrimaryBtn btn-shadow"
-                href="mazharsami67@gmail.com"
+                href="mailto:mazharsami67@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >

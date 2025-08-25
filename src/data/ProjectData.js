@@ -5,7 +5,7 @@ export const ProjectList = [
     title: "React-Based Calculator App",
     description:
       "A sleek, functional calculator built with React to handle your daily math with style.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
+    tech_stack: ["ReactJs", "Git", "TypeScript", ],
     github_url: "https://github.com/mazharsami67/React-Based-Calculator-App",
     demo_url: "https://youknowtheending.net/",
   },
@@ -14,7 +14,7 @@ export const ProjectList = [
     title: "Tic-Tac-Toe Game",
     description:
       "A classic game of strategy reimagined with a clean, modern design using HTML, CSS, and JavaScript.",
-    tech_stack: ["React", "Firebase"],
+    tech_stack: ["HTML", "CSS", "JavaScript"],
     github_url: "https://github.com/mazharsami67/Tic-Tac-Toe-game",
     demo_url: "https://renr-bcit.web.app/",
   },
@@ -23,7 +23,7 @@ export const ProjectList = [
     title: "Rock-Paper-Scissor Game",
     description:
       "A fun and engaging take on the classic hand game, brought to life with vibrant visuals and smooth animations using HTML, CSS, and JavaScript.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
+    tech_stack: ["HTML", "CSS", "JavaScript"],
     github_url: "https://github.com/mazharsami67/Rock-Paper-Scissor",
     demo_url: "https://mymindweb.vercel.app/",
   },
@@ -32,7 +32,7 @@ export const ProjectList = [
     title: "Vacation Destination Management App",
     description:
       "Your perfect getaway starts here. Explore stunning destinations with this responsive web app built with HTML, CSS, and JavaScript.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
+    tech_stack: ["HTML", "CSS", "JavaScript"],
     github_url: "https://github.com/mazharsami67/Vacation-Destination-JavaScript-",
     demo_url: "https://pokedex-salesp07.netlify.app/",
   },
@@ -41,7 +41,7 @@ export const ProjectList = [
     title: "Study Planner App",
     description:
       "A streamlined study planner built with Java and OOP principles to help you stay organized and on track. ",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
+    tech_stack: ["Java", "Swing", "OOP"],
     github_url: "https://github.com/mazharsami67/StudyPlanner-OOP-Java",
     demo_url: "https://jobdetective.onrender.com/",
   },
